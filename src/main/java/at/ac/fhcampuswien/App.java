@@ -84,7 +84,6 @@ public class App {
         }
         return true;
     }
-
     public static String camelCase(String s) {
         char[] sChars = s.toCharArray();
         StringBuilder sCharsNew = new StringBuilder();
